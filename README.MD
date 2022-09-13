@@ -31,3 +31,5 @@ Have fun!
 
 11.09.22 Stage 1 completed - just print of some fixed tests...
 
+13.09.22 Stage 2 completed - ascii art printing - use raw string - multiline starting with r"""
+
