@@ -17,8 +17,6 @@ The sources of main project tasks (4 stages) and testing.
 
 The toy project implements a tool for monitoring animals and their status.
 
-coming up..
-
 Have fun!
 
 ## Project completion
@@ -33,3 +31,4 @@ Have fun!
 
 13.09.22 Stage 2 completed - ascii art printing - use raw string - multiline starting with r"""
 
+16.09.22 Stage 3 completed - ascii art printing with animals in a list structure.
