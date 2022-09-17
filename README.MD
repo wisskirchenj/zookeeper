@@ -21,7 +21,7 @@ Have fun!
 
 ## Project completion
 
-[//]: # (Project was completed on xx.0d.22.)
+Project was completed on 17.09.22.
 
 ## Progress
 
@@ -32,3 +32,5 @@ Have fun!
 13.09.22 Stage 2 completed - ascii art printing - use raw string - multiline starting with r"""
 
 16.09.22 Stage 3 completed - ascii art printing with animals in a list structure.
+
+17.09.22 Final stage 4 completed - added basic menu while-loop with "exit" option.
